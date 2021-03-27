@@ -31,4 +31,4 @@ Per proporre una modifica o tradurre nuovi termini introdotti nelle nuove versio
 4. Eseguire il push (`git push origin feature/AmazingFeature`)
 5. Fare una richiesta di pull in modo che possano essere implementate
 
-Se avete bisogna di una spiegazione generale sul funzionamento di GIT / GITHUB potete guardare questo breve video: https://www.youtube.com/watch?v=yXT1ElMEkW8
+Se avete bisogna di una spiegazione generale sul funzionamento di GIT / GITHUB potete leggere questa breve guida: https://guides.github.com/activities/hello-world/
